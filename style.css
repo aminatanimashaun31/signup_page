@@ -1,0 +1,39 @@
+
+/*
+body{
+background-image: url(image.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	
+*/
+
+.container{width: 2000px; height: 1000px; background-color: #ADD8E6; margin: 0 auto;}
+
+.formPanel{
+	position:relative;
+	width: 20%;
+	left: 10%;
+	border-style: solid;
+    border-color: white;
+    border-width: thick;
+    border-radius: 2%; 
+    padding: 2%;
+    background-color: white;
+    overflow-y: scroll ;
+
+}
+.formControl{
+	height: 40%;
+	width: 90%;
+	padding: 2%;
+	border-radius: 5px;
+	background-color:  lightblue;
+	margin: 2%;
+}
+
+
+#createaccount{
+	background-color: blue;
+	color: white;							
+}
