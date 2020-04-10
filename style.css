@@ -18,6 +18,16 @@ background-image: url(image.jpg);
     box-sizing: border-box;
 }
 
+form {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding-top: 3rem;
+   
+}
+/*
 .formPanel{
 	position:relative;
 	width: 20%;
@@ -31,6 +41,7 @@ background-image: url(image.jpg);
     overflow-y: scroll ;
 
 }
+*/
 .formControl{
 	height: 40%;
 	width: 90%;
