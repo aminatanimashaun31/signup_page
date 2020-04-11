@@ -31,7 +31,6 @@ background-image: url(image.jpg);
     border-radius: 2%; 
     padding: 2%;
     background-color: white;
-    overflow-y: scroll ;
 
 }
 .formControl{
