@@ -8,8 +8,8 @@ background-image: url(image.jpg);
 	
 */
 
-.container{width: 2000px;
- height: 1000px; 
+.container{width: 100%;
+ height: 100%; 
  background-color: #ADD8E6;
   margin: 0 auto;}
 
@@ -23,8 +23,9 @@ background-image: url(image.jpg);
 
 .formPanel{
 	position:relative;
-	width: 20%;
-	left: 10%;
+	width: 35%;
+	left: 20%;
+	
 	border-style: solid;
     border-color: white;
     border-width: thick;
@@ -33,6 +34,21 @@ background-image: url(image.jpg);
     background-color: white;
 
 }
+
+.logo{
+position: relative;
+left: 30%; 
+width: 50%; 
+padding: 2%;">
+
+}
+
+.header{
+	color: blue;
+	font-family: sans-serif;
+	
+}
+
 .formControl{
 	height: 40%;
 	width: 90%;
